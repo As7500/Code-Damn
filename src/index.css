@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --text-sm-font-semibold: Inter;
+
+  /* font sizes */
+  --text-sm-font-semibold-size: 0.88rem;
+  --text-xs-font-normal-size: 0.75rem;
+  --text-base-font-semibold-size: 1rem;
+  --text-2xl-font-bold-size: 1.5rem;
+  --text-lg-font-semibold-size: 1.13rem;
+  --font-size-3xl: 1.38rem;
+  --font-size-3xs: 0.63rem;
+  --text-xl-font-bold-size: 1.25rem;
+  --font-size-3xl-2: 1.39rem;
+  --text-3xl-font-bold-size: 1.75rem;
+
+  /* Colors */
+  --shades-white: #fff;
+  --primary-600: #4f46e5;
+  --zink-100: #f4f4f5;
+  --zink-50: #fafafa;
+  --zink-900: #18181b;
+  --opacity-16: rgba(255, 255, 255, 0.16);
+  --color-gray-100: rgba(255, 255, 255, 0.7);
+  --zink-400: #a1a1aa;
+  --zink-500: #71717a;
+  --zink-600: #52525b;
+  --secondary-200: #bae6fd;
+  --zink-700: #3f3f46;
+  --secondary-900: #0c4a6e;
+  --primary-50: #eef2ff;
+  --secondary-100: #e0f2fe;
+  --zink-200: #e4e4e7;
+  --primary-500: #d5fe01;
+  --accent-2-500: #ec4899;
+  --color-teal: #007972;
+  --primary-5001: #6366f1;
+  --primary-200: #c7d2fe;
+  --primary-700: #4338ca;
+  --secondary-800: #075985;
+  --success-300: #bef264;
+  --color-silver: #c4c4c4;
+
+  /* Gaps */
+  --gap-21xl: 2.5rem;
+  --gap-xs: 0.75rem;
+  --gap-5xl: 1.5rem;
+  --gap-xl: 1.25rem;
+  --gap-5xs: 0.5rem;
+  --gap-10xs: 0.19rem;
+  --gap-7xs: 0.38rem;
+  --gap-9xs: 0.25rem;
+  --gap-base: 1rem;
+  --gap-11xs: 0.13rem;
+  --gap-13xl: 2rem;
+
+  /* Paddings */
+  --padding-5xs: 0.5rem;
+  --padding-base: 1rem;
+  --padding-11xs: 0.13rem;
+  --padding-xs: 0.75rem;
+  --padding-9xs: 0.25rem;
+  --padding-3xs: 0.63rem;
+  --padding-xl: 1.25rem;
+  --padding-4xs: 0.56rem;
+  --padding-smi: 0.81rem;
+  --padding-5xl: 1.5rem;
+  --padding-sm: 0.88rem;
+  --padding-13xl: 2rem;
+  --padding-169xl: 11.75rem;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+  --br-980xl: 999px;
+  --br-5xl: 24px;
+  --br-7xl: 26px;
+  --br-xs: 12px;
+  --br-10xs: 3px;
+  --br-3xs: 10px;
+  --br-base: 16px;
+  --br-7xs: 6px;
+  --br-12xs: 1px;
+  --br-11xs: 2px;
+  --br-mini: 15px;
+
+  /* Effects */
+  --effect: 0px 4px 16px #fff;
+  --backgroundblur-small: blur(12px);
+}
